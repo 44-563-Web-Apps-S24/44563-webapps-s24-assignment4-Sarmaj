@@ -38,25 +38,25 @@
   }
   /* Existing styles */
 
-.cast-table {
+.actors-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 10px;
 }
 
-.cast-table th,
-.cast-table td {
+.actors-table th,
+.actors-table td {
     border: 1px solid #FFC0CB;
     padding: 8px;
     text-align: left;
 }
 
-.cast-table th {
+.actors-table th {
     background-color: #008000;
 }
 
-.cast-table tbody tr:nth-child(even) {
-    background-color: #000000;
+.actors-table tbody tr:nth-child(even) {
+    background-color: #FFC0CB;
 }
 
   
