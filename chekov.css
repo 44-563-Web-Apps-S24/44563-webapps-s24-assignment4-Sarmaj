@@ -58,6 +58,10 @@
 .actors-table tbody tr:nth-child(even) {
     background-color: #FFC0CB;
 }
+.speech:hover {
+    box-shadow: 0 0 10px rgba(128, 0, 128, 0.7); /* Purple shadow with blur */
+    border: 2px solid #800080; /* Purple border */
+}
 
   
   
