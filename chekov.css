@@ -21,16 +21,16 @@
   }
   
   /* Character Styles */
-  .ravi {
-    color:#FFC0CB;
+  .ravi:hover {
+    text-shadow :2px 2px 5px black;
   }
   
   .satya {
     color:#0000FF;
   }
   
-  .raghav {
-    color: #FF0000;
+  .raghav:hover {
+    text-shadow:2px 2px 5px black;
   }
   
   .sara{
@@ -61,6 +61,25 @@
 .speech:hover {
     box-shadow: 0 0 10px rgba(128, 0, 128, 0.7); /* Purple shadow with blur */
     border: 2px solid #800080; /* Purple border */
+}
+ul.navbar-horizontal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+ul.navbar-horizontal li {
+  float:left;
+  color:#000;
+  background-color:yellow;
+} 
+ul.navbar-horizontal a {
+  display:block;
+  padding:8px
+}
+ul.navbar-horizontal a:hover {  
+  background-color:green;
+  color:white;
 }
 
   
