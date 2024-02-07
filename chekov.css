@@ -21,21 +21,22 @@
   }
   
   /* Character Styles */
-  .ravi:hover {
-    text-shadow :2px 2px 5px black;
-  }
-  
-  .satya {
-    color:#0000FF;
-  }
-  
-  .raghav:hover {
+  .YASHA:hover {
     text-shadow:2px 2px 5px black;
   }
   
-  .sara{
-    color: #800080;
+  .GAEV:hover {
+    text-shadow:2px 2px 5px black;
   }
+  
+  .LUBOV:hover {
+    text-shadow:2px 2px 5px black
+  }
+  
+  .LOPAKHIN:hover{
+    text-shadow:2px 2px 5px black
+  }
+
   /* Existing styles */
 
 .actors-table {
@@ -81,10 +82,3 @@ ul.navbar-horizontal a:hover {
   background-color:green;
   color:white;
 }
-
-  
-  
-  
-  
-  
-  
